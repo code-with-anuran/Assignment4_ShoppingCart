@@ -5,7 +5,7 @@
       "title": "Galaxy Z Fold6 5G",
       "description": "The Samsung Galaxy Z Fold6 5G is a premium foldable smartphone featuring a large foldable Dynamic AMOLED 2X display, powerful performance, and multitasking support.",
       "price": 72000,
-      "thumbnail": "/public/product/product-img-1.jpeg",
+      "thumbnail": "../product/product-img-1.jpeg",
       "quantity": 1
     },
     {
@@ -13,7 +13,7 @@
       "title": "OnePlus 15",
       "description": "The OnePlus 15 is a high-performance flagship smartphone offering a smooth AMOLED display, fast charging, and a powerful processor for gaming and multitasking.",
       "price": 85000,
-      "thumbnail": "/public/product/product-img-2.jpeg",
+      "thumbnail": "../product/product-img-2.jpeg",
       "quantity": 1
     },
     {
@@ -22,7 +22,7 @@
       "description": "The Motorola Edge 60 Fusion 5G is a stylish smartphone with a curved OLED display, 5G connectivity, a strong camera setup, and a clean Android experience.",
       "price": 72000,
       "category": "smartphones",
-      "thumbnail": "/public/product/product-img-3.jpeg",
+      "thumbnail": "../product/product-img-3.jpeg",
       "quantity": 1
     },
     {
@@ -30,7 +30,7 @@
       "title": "Motorola G35",
       "description": "The Motorola G35 is a budget-friendly smartphone featuring a large display, reliable performance for daily use, and a long-lasting battery.",
       "price": 85000,
-      "thumbnail": "/public/product/product-img-4.jpeg",
+      "thumbnail": "../product/product-img-4.jpeg",
       "quantity": 1
     },
     {
@@ -38,7 +38,7 @@
       "title": "Redmi A4 5G",
       "description": "The Redmi A4 5G is an affordable 5G smartphone offering a smooth display, decent performance for everyday tasks, and a big battery for long usage.",
       "price": 72000,
-      "thumbnail": "/public/product/product-img-5.jpeg",
+      "thumbnail": "../product/product-img-5.jpeg",
       "quantity": 1
     },
     {
@@ -46,7 +46,7 @@
       "title": "iQOO Z10x 5G",
       "description": "The iQOO Z10x 5G is a premium flagship smartphone featuring a Super Retina XDR display, powerful A-series performance, and an advanced camera system.",
       "price": 85000,
-      "thumbnail": "/public/product/product-img-6.jpeg",
+      "thumbnail": "../product/product-img-6.jpeg",
       "quantity": 1
     },
     {
@@ -54,7 +54,7 @@
       "title": "Samsung Galaxy M36 5G",
       "description": "The Samsung Galaxy M36 5G is a next-generation flagship smartphone with a high-refresh AMOLED display, top-tier cameras, strong performance, and 5G connectivity.",
       "price": 72000,
-      "thumbnail": "/public/product/product-img-7.jpeg",
+      "thumbnail": "../product/product-img-7.jpeg",
       "quantity": 1
     },
     {
@@ -62,7 +62,7 @@
       "title": "Apple iPhone Air",
       "description": "The Apple iPhone Air is a premium smartphone designed for smooth performance, stunning display quality, and powerful photography features with iOS experience.",
       "price": 85000,
-      "thumbnail": "/public/product/product-img-8.jpeg",
+      "thumbnail": "../product/product-img-8.jpeg",
       "quantity": 1
     }
   ]
